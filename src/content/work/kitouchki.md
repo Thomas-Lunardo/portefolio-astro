@@ -33,7 +33,7 @@ To enhance the user interface and create dynamic views, we incorporated the TWIG
 
 Recognizing the importance of user security, we implemented a robust authentication system using bcrypt. This cryptographic hash function ensured the protection of user credentials, adhering to best practices in safeguarding sensitive information. The inclusion of secure authentication added a layer of trust to our Secret Santa application, fostering a secure and enjoyable environment for users.
 
-### Secure Authentication with Bcrypt
+### Best Presentation Award
 
 Our team proudly clinched the Best Presentation award from the jury, a testament to our effective communication and the standout features of Kitouchki during the hackathon. This acknowledgment added an extra layer of celebration to our festive project, underscoring our commitment to excellence.
 
